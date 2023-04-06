@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHub Users</string>
+    <string name="item_row_user_avatar_content_description">A github user avatar</string>
+    <string name="searchView_query_hint">Search...</string>
+    <string name="followers_tab_text">Followers</string>
+    <string name="following_tab_text">Following</string>
+</resources>
